@@ -23,8 +23,20 @@ Agile is an iterative and incremental approach to software development. It empha
     
  ### Deployment:
   - Continuous deployment practices can be employed to ensure that the latest version of the app is always available.
+  - Plan for the deployment of the model into a testing or staging environment.
+### Testing and Validation:
+  - Conduct thorough testing of the model in a controlled environment.
+  - Validate the model's predictions against real-world data.
+  - Address any issues or bugs identified during testing.
+### Monitoring and Maintenance:
 
+  - Implement monitoring tools to track the model's performance in production.
+  - Establish procedures for ongoing model maintenance, including retraining with new data.
+### Documentation:
 
+  - Document the model architecture, data sources, preprocessing steps, and any other relevant information.
+  - Provide clear documentation for users and developers who will interact with or maintain the system.
 
-
+### Special note :
+  - Regular communication and collaboration among team members and stakeholders are essential throughout the project.
 
