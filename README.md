@@ -1,6 +1,6 @@
 # Customer-revenue-prediction-app(with-deployment):
 
-For a Customer Revenue Prediction app with deployment, a software development life cycle (SDLC) model that is well-suited for iterative and evolving projects would be beneficial. Here are two popular SDLC models that could be applied to such a project:
+For a Customer Revenue Prediction app with deployment, a software development life cycle (SDLC) model that is well-suited for iterative and evolving projects would be beneficial. Here are the one popular SDLC models that could be applied to such a project:
 
 ## 1.Agile Model:
 
